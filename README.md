@@ -6,7 +6,7 @@ Welcome to my profile! I am *Dimsa Mutiara Firstayodi* currently studying at *Di
 
 Vist my *[Instagram](https://www.instagram.com/dimsaamf/) - [LinkedIn](https://www.linkedin.com/in/dimsa-mutiara-firstayodi-4a3321207/)***
 
-[![Linkedin: Dimsa](https://img.shields.io/badge/-Dimsa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dimsa-mutiara-firstayodi-4a3321207/)](https://www.linkedin.com/in/dimsa-mutiara-firstayodi-4a3321207/)
+[![Linkedin: Dimsa](https://img.shields.io/badge/-Dimsa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dimsa-mutiara-firstayodi-4a3321207/)](https://www.linkedin.com/in/dimsa-mutiara-firstayodi-1aa722317/)
 [![GitHub Dimsa](https://img.shields.io/github/followers/dimsaamf?label=follow&style=social)](https://github.com/dimsaamf)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCZqgPrXj18WI_m_5V9J4gXg?style=social)
 ---
